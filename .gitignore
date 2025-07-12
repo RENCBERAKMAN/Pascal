@@ -1,0 +1,11 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+# Pascal build & temp files
+*.exe
+*.o
+*.ppu
+*.bak
+*.tmp
