@@ -19,15 +19,7 @@ A lightweight Pascal application featuring basic mathematical and academic utili
 
 ---
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Pascal Logo" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1041/1041881.png" alt="Calculator Icon" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1087/1087849.png" alt="Console Icon" width="80" />
-</p>
 
----
 
 ## Author
 
