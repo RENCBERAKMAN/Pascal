@@ -24,6 +24,9 @@ A lightweight Pascal application featuring basic mathematical and academic utili
 ## Author
 
 Created by Rencber
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-coding-web-development-flaticons-lineal-color-flat-icons.png" alt="Coding Icon" />
+</p>
 
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/000000/user.png" alt="Author Icon" />
